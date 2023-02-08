@@ -1,4 +1,4 @@
 # Quotes generator
 
 
-Live Site URL: 
+###Live Site URL: https://gabedavaa.github.io/Quotes-generator/
